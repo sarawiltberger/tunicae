@@ -1,0 +1,26 @@
+
+#bgd{
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/14/d2/b1/14d2b11f84e3222df39670ea42f1f66d.jpg");
+    background-size: cover;
+    opacity:.35;
+}
+
+div.center h1{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: Lucida Console;
+}
+
+div.center{
+	height: 30em;
+    position: relative 
+}
